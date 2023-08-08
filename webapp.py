@@ -22,7 +22,7 @@ import pickle
 
 # Page title
 
-image = Image.open('devababu.png')
+image = Image.open('logo.png')
 
 
 st.image(image, use_column_width= True)
